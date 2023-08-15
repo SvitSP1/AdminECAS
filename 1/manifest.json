@@ -1,6 +1,6 @@
 {
-  "short_name": "IMS Admin",
-  "name": "IMS Admin",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
